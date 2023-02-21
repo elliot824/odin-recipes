@@ -1,17 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&family=Roboto+Mono:wght@100&display=swap');
 
-
-body {
-    background-color: #979797;
+* {
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(28, 147, 147);
 }
 
 h1 {
-    font-family: 'Gajraj One', cursive;
-    color: #b91010;
-    font-size: 50px;
+    font-size: 45px;
+    margin-bottom: 10px;   
 }
 
 ul {
-    font-family: 'Gajraj One', cursive;
     font-size: 15px;
 }
